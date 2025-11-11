@@ -4,10 +4,9 @@
 Neste repositório está o código fonte em C do projeto de triagem de sintomas.
 
 ## Grupo:
-|------------------------------|----------------|
-| Enzo Gabriel Dias Perlato    | RA: 25001311-2 |
-|------------------------------|----------------|
-| Guilherme Friedrich da Silva | RA: 25000902-2 |
-|------------------------------|----------------|
-| Rafael Alcantara Santos      | RA: 25000917-2 |
-|------------------------------|----------------|
+
+| Nomes                        | RA         |
+|------------------------------|------------|
+| Enzo Gabriel Dias Perlato    | 25001311-2 |
+| Guilherme Friedrich da Silva | 25000902-2 |
+| Rafael Alcantara Santos      | 25000917-2 |
